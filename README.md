@@ -12,11 +12,11 @@ Create a TODO list application that allows users to add and delete tasks.
 - The delete icon shows only when the task is hovered.
 - The use can add as many tasks as it wants.
 - When there is no tasks the list should "No tasks, add a task"
-- There is no way to update a task, the user will ahve to delete and create again.
+- There is no way to update a task, the user will have to delete and create again.
 
 ## 💡 Tips to finish this project
 
-Do not go straight to the code, think first and have a viable trategy.
+Do not go straight to the code, think first and have a viable strategy.
 
 - What components will you create? Draw the project on a white paper and identify components.
 - Where are the stasks going to be stored in your component?
